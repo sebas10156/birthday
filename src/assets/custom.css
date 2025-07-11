@@ -1,0 +1,33 @@
+.content {
+  width: 100%;
+  margin: auto;
+  padding: 28px;
+  max-width: 393px;
+}
+
+.panel {
+  padding: 12px 15px;
+  background: white;
+  text-align: center;
+  color: var(--ui-color-primary);
+  border-radius: var(--ui-radius);
+  font-size: var(--ui-font-size-h2);
+  font-family: var(--ui-font-family-title);
+  box-shadow: 5px 8px 7px rgba(0, 0, 0, .1);
+}
+
+.page-footer {
+  left: 0;
+  right: 0;
+  gap: 10px;
+  width: 85%;
+  bottom: 5%;
+  display: flex;
+  position: fixed;
+  max-width: 393px;
+  margin: auto;
+}
+
+.page-footer button:last-child {
+  flex-grow: 1;
+}
