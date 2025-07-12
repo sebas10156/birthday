@@ -7,8 +7,10 @@
     <ul>
       <li>📌 Tu sonrisa</li>
       <li>📌 Ropita cómoda</li>
-      <li>📌 Ropita para bañar</li>
+      <li>📌 Ropita para bañar en jacuzzi y río</li>
       <li>📌 Ropita para frío</li>
+      <li>📌 Toalla viajera</li>
+      <li>📌 Crocs o sandalias</li>
       <li>📌 Bloqueador</li>
       <li>📌 Repelente</li>
       <li>📌 Cositas personales</li>
