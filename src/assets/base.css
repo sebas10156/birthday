@@ -6,11 +6,13 @@
   --ui-font-size-h2: 1.75rem;
   --ui-font-size-h3: 1.35rem;
   --ui-font-size-body: 1rem;
+  --ui-font-size-small: .8rem;
 
   --ui-color-foreground: #556270;
   --ui-color-background: #FFF7FA;
   --ui-color-primary: #FF6B81;
   --ui-color-secondary: #4ECDC4;
+  --ui-surface-0: #FFE66D;
 
   /* Radius */
   --ui-radius: 8px;

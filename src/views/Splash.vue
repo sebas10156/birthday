@@ -44,6 +44,7 @@ watchEffect(() => {
   background: url("../assets/images/splash.png") center center / cover;
 
   .content {
+    margin-bottom: auto;
     text-align: center;
 
     p {
